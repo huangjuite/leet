@@ -59,8 +59,12 @@ double findMedianSortedArrays(vector<int> &nums1, vector<int> &nums2)
 
 int main(int argc, char const *argv[])
 {
-    vector<int> nums1{1, 3};
-    vector<int> nums2{2, 4};
+    vector<int> nums1;
+    nums1.push_back(1);
+    nums1.push_back(3);
+    vector<int> nums2;
+    nums2.push_back(2);
+    nums2.push_back(4);
 
     double ans = findMedianSortedArrays(nums1, nums2);
     cout << ans << endl;

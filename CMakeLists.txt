@@ -9,6 +9,7 @@ add_executable(two_sum algorithm/two_sum.cpp)
 add_executable(add_two_numbers algorithm/add_two_numbers.cpp)
 add_executable(longestSubstringWithoutRepeatingCharacters algorithm/longestSubstringWithoutRepeatingCharacters.cpp)
 add_executable(MedianofTwoSortedArrays algorithm/MedianofTwoSortedArrays.cpp)
+add_executable(LongestPalindromicSubstring algorithm/LongestPalindromicSubstring.cpp)
 
 
 
