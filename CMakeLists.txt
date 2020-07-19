@@ -9,7 +9,7 @@ add_executable(two_sum algorithm/two_sum.cpp)
 add_executable(add_two_numbers algorithm/add_two_numbers.cpp)
 add_executable(longestSubstringWithoutRepeatingCharacters algorithm/longestSubstringWithoutRepeatingCharacters.cpp)
 add_executable(MedianofTwoSortedArrays algorithm/MedianofTwoSortedArrays.cpp)
-
+add_executable(ZigZagConversion algorithm/ZigZagConversion.cpp)
 
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
