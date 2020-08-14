@@ -11,7 +11,7 @@ add_executable(longestSubstringWithoutRepeatingCharacters algorithm/longestSubst
 add_executable(MedianofTwoSortedArrays algorithm/MedianofTwoSortedArrays.cpp)
 add_executable(LongestPalindromicSubstring algorithm/LongestPalindromicSubstring.cpp)
 add_executable(ZigZagConversion algorithm/ZigZagConversion.cpp)
-
+add_executable(935_knight_dialer algorithm/935_knight_dialer.cpp)
 
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
