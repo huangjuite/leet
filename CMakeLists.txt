@@ -15,7 +15,7 @@ add_executable(LongestPalindromicSubstring algorithm/LongestPalindromicSubstring
 add_executable(ZigZagConversion algorithm/ZigZagConversion.cpp)
 add_executable(935_knight_dialer algorithm/935_knight_dialer.cpp)
 add_executable(821 algorithm/821.cpp)
-
+add_executable(1510 algorithm/1510.cpp)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
